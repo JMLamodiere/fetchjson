@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JMLamodiere/fetchjson/issues"
   },
-  "homepage": "https://github.com/JMLamodiere/fetchjson#readme"
+  "homepage": "https://github.com/JMLamodiere/fetchjson#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
