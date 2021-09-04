@@ -19,8 +19,5 @@
   "homepage": "https://github.com/JMLamodiere/fetchjson#readme",
   "dependencies": {
     "axios": "^0.21.1"
-  },
-  "devDependencies": {
-    "prettier": "2.3.2"
   }
 }
